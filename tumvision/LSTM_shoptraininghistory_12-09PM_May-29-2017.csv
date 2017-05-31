@@ -1,0 +1,8 @@
+validationSplit:0
+correspondingWeights:/work/alleboud/vision/trainedweights/12-09PM_May-29-2017_shop_LSTM.h5
+batchSize:75
+Beta:100
+meanOfMeansImage:False
+startingweights:/work/alleboud/vision/trainedweights/weights/mergedweights.h5
+total number of samples:2116
+val_loss,loss
